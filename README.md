@@ -16,6 +16,6 @@ I currently use PyCharm and VS Code as my IDEs, but I have used Visual Studio, N
 
 I hope to phase in contributing to some projects on GitHub, but other than contributing to open-sauced and GitHub learning repos, I don't yet know where I can be useful.
 
-You can reach me at prw 760 AT pro ton DOT m e -- or through GitHub.
+You can reach me either here -- or through my profile on LinkedIn.com.  (I've included the link here on my profile.)
 
 Thanks for readin'! :)
