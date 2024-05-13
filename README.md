@@ -1,6 +1,6 @@
-Hi there 👋   
+## Hi there 👋   My name is Paul...
 
-My name is Paul, and I started exploring the world of open-source contributions in May 2024.
+...and I started exploring the world of open-source contributions in May 2024.
 
 I started by contributing to newbie issues on GitHub in the open-sauced/guestbook and open-sauced/pizza-verse repos.
 
