@@ -26,7 +26,7 @@ Senior software engineer and technical lead with experience in enterprise applic
 ## Independent Development & Open Source
 
 **Founder — [Lathe Games LLC](https://github.com/LatheGames)**  
-Independent software and game development using Godot and C#. Project details are intentionally not disclosed publicly.
+Independent software and game development using Godot and C#.
 
 **Open-source development**  
 Contributions and independently maintained projects spanning development tools, application software, and technical experimentation. [Explore repositories](https://github.com/prw760?tab=repositories).
