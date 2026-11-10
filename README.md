@@ -2,7 +2,7 @@
 
 **Senior Software Engineer & Tech Lead | C#, Python, .NET, Godot | Indie Game Developer | Founder, [Lathe Games LLC](https://github.com/LatheGames)**
 
-Senior software engineer and technical lead with experience in enterprise application development, full-stack systems, technical delivery, and software engineering for commercial and U.S. government customers. Professional background includes work with Qualcomm, Amazon, Humana, and DOD/DOW-related projects.
+Senior software engineer and technical lead with experience in enterprise application development, full-stack systems, technical delivery, and software engineering for commercial and U.S. government customers. Professional background includes work with Qualcomm, Humana, Amazon, and DOD/DOW-related projects.
 
 ## Technical Expertise
 
