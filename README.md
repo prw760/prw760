@@ -1,19 +1,36 @@
-## Hi there 👋   My name is Paul R. Wade...
+# Hi, I'm Paul R. Wade 👋
 
-...and I started exploring the world of open-source contributions in May 2024.
+**Senior Software Engineer • Technical Lead • Independent Developer**
 
-I started by contributing to newbie issues on GitHub in the open-sauced/guestbook and open-sauced/pizza-verse repos.
+I'm a software engineer based in Mesa, Arizona, with a background in enterprise applications, full-stack development, and technical leadership. My career has included engineering work for organizations such as Qualcomm and Humana, plus software projects supporting the U.S. military.
 
-I have been a senior software engineer for various Fortune 500 companies (Qualcomm, Humana, etc.) and a military contractor for USAF, USN, etc.  
+I enjoy building practical software, exploring modern technologies, contributing to open source, and developing independent projects.
 
-All of my work (up until 2016) has been on ASP.NET web applications using MS Visual Studio, C#, MS Team Foundation Server, and MS SQL Server.  
+## 🛠️ Technology
 
-I have my bachelor's from SDSU and web-technology certifications from UCSD in C++, C#, ASP.NET, and Java.
+- **Languages:** C#, Python, JavaScript, SQL, Kotlin
+- **Frameworks:** .NET / ASP.NET, Node.js, React, Django
+- **Cloud & data:** AWS, REST APIs, SQL Server, MySQL
+- **Creative development:** Godot and interactive software
+- **Tools:** Git/GitHub, VS Code, Visual Studio, JetBrains IDEs
 
-I recently earned certificates in both Python, Django, Kotlin, and Node.js/React (from Hyperskill) and completed Python coursework at Mesa Community College.
+My background is rooted in C#/.NET and SQL-backed applications, and I continue to explore Python, modern web stacks, cloud services, and game development.
 
-I currently use VS Code, IntelliJ, PyCharm, and Webstorm as my IDEs, but I have experience using Visual Studio, Netbeans, Eclipse, and Android Studio.
+## 🚀 Current interests
 
-You can reach me either here -- or through my profile on LinkedIn.com.  (I've included the link here on my profile.)
+- **Independent development:** Designing and building software and games through [Lathe Games LLC](https://github.com/LatheGames).
+- **Open source:** Contributing to projects, sharing useful tools, and collaborating with developers. I began contributing to GitHub projects in 2024.
+- **Continuous learning:** Exploring new languages, frameworks, and approaches to software design.
 
-Thanks for readin'! :)
+## 🧭 Professional background
+
+I've served as a senior software engineer and technical lead, working on architecture, application development, code reviews, Agile delivery, and coordination with customers and stakeholders.
+
+I hold a bachelor's degree from San Diego State University and have continued studying software and web technologies throughout my career.
+
+## 🤝 Connect
+
+- [LinkedIn](https://www.linkedin.com/in/prw760/)
+- [My GitHub repositories](https://github.com/prw760?tab=repositories)
+
+Thanks for stopping by!
