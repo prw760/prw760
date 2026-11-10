@@ -1,42 +1,29 @@
 # Paul R. Wade
 
-**Senior Software Engineer & Tech Lead | C#, Python, .NET, Godot | Indie Game Developer | Founder, [Lathe Games LLC](https://github.com/LatheGames)**
+**Senior Software Engineer & Technical Lead**
 
-Senior software engineer and technical lead with experience in enterprise application development, full-stack systems, technical delivery, and software engineering for commercial and U.S. government customers. Professional background includes work with Qualcomm, Humana, Amazon, and DOD/DOW-related projects.
+I build and maintain web applications, backend services, and data-driven software. My background combines hands-on C#/.NET engineering with technical leadership: reviewing code, coordinating development and QA, and working with stakeholders from requirements through release.
 
-## Technical Expertise
+## Featured engineering project
 
-| Domain | Technologies and Capabilities |
-| --- | --- |
-| **Languages** | C#, Python, TypeScript, JavaScript, SQL, Kotlin |
-| **Backend & APIs** | .NET, ASP.NET, Node.js, Django, RESTful API design |
-| **Frontend** | React, JavaScript, HTML/CSS |
-| **Cloud** | TypeScript/Node.js on AWS Lambda, S3, Cognito, DynamoDB, CloudWatch |
-| **Data** | Microsoft SQL Server, MySQL, SQLite, T-SQL, stored procedures |
-| **Game Development** | Godot, C#, gameplay systems and tooling |
-| **Engineering Workflow** | Git/GitHub, code review, Agile/Scrum, testing, release coordination |
+### [SOILS — Song Outside-In List Sorter](https://github.com/prw760/SongOutsideInListSorter)
 
-## Engineering & Technical Leadership
+A Python library that addresses short repeat intervals where one shuffled playlist loop meets the next.
 
-- **Application engineering:** Design, implementation, maintenance, and modernization of web applications and services, including enterprise .NET systems.
-- **Technical leadership:** Engineering task delegation, code reviews, technical guidance, and coordination across development, QA, and configuration-management functions.
-- **Delivery & stakeholder collaboration:** Experience acting as technical lead, product owner, and project manager; requirements analysis, technical specifications, estimates, and coordination with government stakeholders.
-- **Full-stack and cloud development:** Experience across relational databases, REST APIs, web frameworks, and AWS services.
+- **Design:** An outside-in ordering algorithm with a documented minimum repeat-distance guarantee for fixed playlists of distinct tracks played sequentially.
+- **Validation:** Automated tests and GitHub Actions across Python 3.9, 3.11, and 3.13; seeded runs make behavior reproducible.
+- **Engineering tradeoffs:** Explicit documentation of ordering bias, complexity, and the limits of the guarantee when playback or playlist contents change.
 
-## Independent Development & Open Source
+[Code and usage](https://github.com/prw760/SongOutsideInListSorter) · [Algorithm and assumptions](https://github.com/prw760/SongOutsideInListSorter/blob/main/ALGORITHM.md) · [Tests](https://github.com/prw760/SongOutsideInListSorter/blob/main/test_playlist.py) · [CI](https://github.com/prw760/SongOutsideInListSorter/actions)
 
-**Founder — [Lathe Games LLC](https://github.com/LatheGames)**  
-Independent software and game development using Godot and C#.
+## Engineering focus
 
-**Open-source development**  
-Contributions and independently maintained projects spanning development tools, application software, and technical experimentation. [Explore repositories](https://github.com/prw760?tab=repositories).
+- **Applications and data:** C#, .NET/ASP.NET, SQL Server, T-SQL, and REST APIs.
+- **Additional development:** Python, TypeScript/Node.js, React, Django, and AWS services.
+- **Technical leadership:** Code review, engineering coordination, requirements analysis, test planning, and release delivery.
 
-## Education & Continuing Development
+## Current development
 
-- **San Diego State University:** Bachelor's degree.
-- **University of California San Diego:** Continuing education in software and web technologies -- C#, ASP.NET, and Java.
-- **Additional certifications:** Python, Django, Kotlin, and Node.js/React.
+Alongside public Python work, I develop independent software using C# and Godot through [Lathe Games LLC](https://github.com/LatheGames).
 
----
-
-[LinkedIn](https://www.linkedin.com/in/prw760/) · [GitHub repositories](https://github.com/prw760?tab=repositories)
+[LinkedIn — professional experience and education](https://www.linkedin.com/in/prw760/) · [Public repositories](https://github.com/prw760?tab=repositories)
