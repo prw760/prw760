@@ -1,36 +1,42 @@
-# Hi, I'm Paul R. Wade 👋
+# Paul R. Wade
 
-**Senior Software Engineer • Technical Lead • Independent Developer**
+**Senior Software Engineer & Tech Lead | C#, Python, .NET, Godot | Indie Game Developer | Founder, [Lathe Games LLC](https://github.com/LatheGames)**
 
-I'm a software engineer based in Mesa, Arizona, with a background in enterprise applications, full-stack development, and technical leadership. My career has included engineering work for organizations such as Qualcomm and Humana, plus software projects supporting the U.S. military.
+Senior software engineer and technical lead with experience in enterprise application development, full-stack systems, technical delivery, and software engineering for commercial and U.S. government customers. Professional background includes work with Qualcomm, Humana, and defense-related projects.
 
-I enjoy building practical software, exploring modern technologies, contributing to open source, and developing independent projects.
+## Technical Expertise
 
-## 🛠️ Technology
+| Domain | Technologies and Capabilities |
+| --- | --- |
+| **Languages** | C#, Python, JavaScript, SQL, Kotlin |
+| **Backend & APIs** | .NET, ASP.NET, Node.js, Django, RESTful API design |
+| **Frontend** | React, JavaScript, HTML/CSS |
+| **Cloud** | AWS Lambda, S3, Cognito, DynamoDB, CloudWatch |
+| **Data** | Microsoft SQL Server, MySQL, T-SQL, stored procedures |
+| **Game Development** | Godot, C#, gameplay systems and tooling |
+| **Engineering Workflow** | Git/GitHub, code review, Agile/Scrum, testing, release coordination |
 
-- **Languages:** C#, Python, JavaScript, SQL, Kotlin
-- **Frameworks:** .NET / ASP.NET, Node.js, React, Django
-- **Cloud & data:** AWS, REST APIs, SQL Server, MySQL
-- **Creative development:** Godot and interactive software
-- **Tools:** Git/GitHub, VS Code, Visual Studio, JetBrains IDEs
+## Engineering & Technical Leadership
 
-My background is rooted in C#/.NET and SQL-backed applications, and I continue to explore Python, modern web stacks, cloud services, and game development.
+- **Application engineering:** Design, implementation, maintenance, and modernization of web applications and services, including enterprise .NET systems.
+- **Technical leadership:** Engineering task delegation, code reviews, technical guidance, and coordination across development, QA, and configuration-management functions.
+- **Delivery & stakeholder collaboration:** Experience acting as technical lead, product owner, and project manager; requirements analysis, technical specifications, estimates, and coordination with government stakeholders.
+- **Full-stack and cloud development:** Experience across relational databases, REST APIs, web frameworks, and AWS services.
 
-## 🚀 Current interests
+## Independent Development & Open Source
 
-- **Independent development:** Designing and building software and games through [Lathe Games LLC](https://github.com/LatheGames).
-- **Open source:** Contributing to projects, sharing useful tools, and collaborating with developers. I began contributing to GitHub projects in 2024.
-- **Continuous learning:** Exploring new languages, frameworks, and approaches to software design.
+**Founder — [Lathe Games LLC](https://github.com/LatheGames)**  
+Independent software and game development using Godot and C#. Project details are intentionally not disclosed publicly.
 
-## 🧭 Professional background
+**Open-source development**  
+Contributions and independently maintained projects spanning development tools, application software, and technical experimentation. [Explore repositories](https://github.com/prw760?tab=repositories).
 
-I've served as a senior software engineer and technical lead, working on architecture, application development, code reviews, Agile delivery, and coordination with customers and stakeholders.
+## Education & Continuing Development
 
-I hold a bachelor's degree from San Diego State University and have continued studying software and web technologies throughout my career.
+- **San Diego State University:** Bachelor's degree.
+- **University of California San Diego:** Continuing education in software and web technologies.
+- **Additional training:** Python, Django, Kotlin, and Node.js/React.
 
-## 🤝 Connect
+---
 
-- [LinkedIn](https://www.linkedin.com/in/prw760/)
-- [My GitHub repositories](https://github.com/prw760?tab=repositories)
-
-Thanks for stopping by!
+[LinkedIn](https://www.linkedin.com/in/prw760/) · [GitHub repositories](https://github.com/prw760?tab=repositories)
