@@ -35,7 +35,7 @@ Contributions and independently maintained projects spanning development tools, 
 
 - **San Diego State University:** Bachelor's degree.
 - **University of California San Diego:** Continuing education certifications in software and web technologies.
-- **Additional training:** Python, Django, Kotlin, and Node.js/React.
+- **Additional certifications:** Python, Django, Kotlin, and Node.js/React.
 
 ---
 
