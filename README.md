@@ -12,7 +12,7 @@ Senior software engineer and technical lead with experience in enterprise applic
 | **Backend & APIs** | .NET, ASP.NET, Node.js, Django, RESTful API design |
 | **Frontend** | React, JavaScript, HTML/CSS |
 | **Cloud** | TypeScript/Node.js on AWS Lambda, S3, Cognito, DynamoDB, CloudWatch |
-| **Data** | Microsoft SQL Server, MySQL, T-SQL, stored procedures |
+| **Data** | Microsoft SQL Server, MySQL, SQLite, T-SQL, stored procedures |
 | **Game Development** | Godot, C#, gameplay systems and tooling |
 | **Engineering Workflow** | Git/GitHub, code review, Agile/Scrum, testing, release coordination |
 
