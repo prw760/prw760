@@ -34,7 +34,7 @@ Contributions and independently maintained projects spanning development tools, 
 ## Education & Continuing Development
 
 - **San Diego State University:** Bachelor's degree.
-- **University of California San Diego:** Continuing education certifications in software and web technologies.
+- **University of California San Diego:** Continuing education in software and web technologies -- C#, ASP.NET, and Java.
 - **Additional certifications:** Python, Django, Kotlin, and Node.js/React.
 
 ---
